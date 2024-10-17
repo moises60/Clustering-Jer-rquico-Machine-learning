@@ -59,7 +59,7 @@ Se emplea Clustering Jerárquico Aglomerativo, que agrupa los datos en una estru
 
 ## Instalación
 ```bash
-git clone https://github.com/moises60/Regresion-logistica-machine-learning.git
+git clone https://github.com/moises60/Clustering-Jer-rquico-Machine-learning.git
 ```
 ## Visualizaciones
 # Método del Codo
